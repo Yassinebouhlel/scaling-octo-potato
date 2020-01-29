@@ -1,1 +1,1 @@
-# scaling-octo-potato
+# Java Project
